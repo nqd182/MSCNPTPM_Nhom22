@@ -5,7 +5,7 @@ namespace test{
         public double Value{get; set};
 
         static void main(){
-            Test 1 = new Test();
+            Test 1 = new Test();đas
 
         }
     }
